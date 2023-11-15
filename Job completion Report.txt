@@ -1,0 +1,20 @@
+Report on Job Completion and Challenges Faced
+Introduction
+During my time working on the tasks assigned by iNeuBytes, I completely enjoyed the learning process and the challenges presented. I would like to provide a summary of my experience with each job, highlighting the smooth progress in the first job and the (problems, delays, etc.) met during the completion of the second and third tasks.
+
+Job 1: Initial Job
+The first job was a smooth and enjoyable experience. I met no significant issues and was able to complete it (in a way that produces a lot with very little waste). The ideas and needed things were clear, enabling me to focus on delivering high-quality results.
+
+Job 2: API (Combination of different things together that work as one unit) Challenges
+However, in the second job, I faced significant challenges with the API (combination of different things together that work as one unit). This was a new area for me, as I hadn't (before that/before now) worked a lot with API abilities to do things. Understanding the details and technical parts of the API created a/presented a significant learning curve. (even though there is the existence of) this, through (the quality of continuing to do/try something for a long time) and difficult/strict/high quality research, I managed to grab/understand the extremely important ideas and successfully put into use the needed/demanded API functions.
+
+Job 3: MySQL and XAMPP Errors
+The third job involved working with MySQL and XAMPP. I met many errors while writing the MySQL code, and the functioning of XAMPP presented many issues, which significantly stopped/interfered with my progress. These errors tested my problem-solving skills and needed/demanded long/big (finding the source of problems) and (finding and correcting mistakes in). However, I was decided to overcome these challenges and (in the end) resolved the issues, allowing me to present the completed job within the selected/named timeframe.
+
+End/end result
+In end/end result, (even though there is the existence of) meeting (blocking or stopping things) during the completion of the second and third tasks, I am pleased to present the completed work. The (problems, delays, etc.) I faced only served to improve my skills and deepen my understanding of the ideas involved. I believe that my constant trying/not going away and dedication in overcoming these challenges (show or prove) my loyalty to/promise to delivering high-quality work. I look forward to applying the knowledge gained from these experiences to future projects and tasks.
+
+Honestly
+
+Kartik Samnotra
+iNeuBytes Intern
